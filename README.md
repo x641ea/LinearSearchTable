@@ -1,3 +1,3 @@
 # LinearSearchTable
 データの線形探索
-LinearSearch.javaをまず同じファイルまたはライブラリで保存して、　LinearSearchTable.javaを保存する。そして、コンパイル連動してコンパイル出来る。
+LinearSearch.javaをまず同じファイルまたはライブラリで保存して、　LinearSearchTable.javaを保存する。そして、LinearSearchTable.javaをコンパイル。
